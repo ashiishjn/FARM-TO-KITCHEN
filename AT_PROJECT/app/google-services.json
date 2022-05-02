@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "838294482243",
+    "firebase_url": "https://android-app-database-buy-739b8-default-rtdb.firebaseio.com",
+    "project_id": "android-app-database-buy-739b8",
+    "storage_bucket": "android-app-database-buy-739b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838294482243:android:1675ea0d346f77b05a53f6",
+        "android_client_info": {
+          "package_name": "com.example.farm_to_kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838294482243-5bfed1u2g1100rbqff77q2nf56l9pqv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzbAlPNeDImeOEKVKKDOSzH3SEEDnWnRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838294482243-5bfed1u2g1100rbqff77q2nf56l9pqv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
