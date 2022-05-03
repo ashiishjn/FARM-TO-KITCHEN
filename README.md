@@ -81,6 +81,10 @@ The display pages’ UI consists of items that are up for sale along with their 
 </details>
 
 
+## Contributors
+
+- Y Veera Raghav Reddy 
+- Aniket Saxena 
 
 
 
